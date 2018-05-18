@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+djgg
+db.sqlite3
+/static
